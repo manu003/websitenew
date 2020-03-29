@@ -1,0 +1,21 @@
+
+body
+{
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+p
+{
+	color: orange;
+	border: 10px solid green ;
+	
+	cursor: pointer;
+
+}
+
+a
+{
+	color: red
+	cursor:pointer;
+}
